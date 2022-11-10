@@ -4,16 +4,16 @@ import optuna
 # general constants
 SAMPLES_BATCH = 1
 CLASS_NAMES = {
-    0: "Zero",
-    1: "One",
-    2: "Two",
-    3: "Three",
-    4: "Four",
-    5: "Five",
-    6: "Six",
-    7: "Seven",
-    8: "Eight",
-    9: "Nine"
+    0: "T-shirt/top",
+    1: "Trouser",
+    2: "Pullover",
+    3: "Dress",
+    4: "Coat",
+    5: "Sandal",
+    6: "Shirt",
+    7: "Sneaker",
+    8: "Bag",
+    9: "Ankle boot"
 }
 
 OPTIMIZER = "rmsprop"
@@ -32,12 +32,12 @@ DEEP_ACTIVATION = {
     "relu": tf.keras.initializers.HeUniform(),
     "selu": tf.keras.initializers.LecunNormal(),
     "elu": tf.keras.initializers.HeUniform(),
-    "exponential": tf.keras.initializers.GlorotUniform(),
+    # "exponential": tf.keras.initializers.GlorotUniform(),
     "swish": tf.keras.initializers.HeUniform(),
 }
 KERNEL_INITIALIZER = "he_uniform"
 OUT_ACTIVATION = "softmax"
-ES_PATIENCE = 10
+ES_PATIENCE = 11
 
 MODELS_PATH = "./best_models"
 SCORES_PATH = "./scores"

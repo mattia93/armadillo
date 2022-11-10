@@ -2,176 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87960bd3-8541-4809-a020-92fa9f43f70e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/.idea/nn_robustness_experiment_3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/.idea/nn_robustness_experiment_4.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_elu_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_elu_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_elu_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_elu_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_elu_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_elu_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_elu_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_elu_7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_elu_8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_elu_9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_exponential_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_exponential_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_exponential_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_exponential_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_exponential_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_exponential_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_exponential_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_exponential_7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_exponential_8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_exponential_9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_relu_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_relu_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_relu_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_relu_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_relu_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_relu_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_relu_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_relu_7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_relu_8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_relu_9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_selu_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_selu_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_selu_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_selu_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_selu_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_selu_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_selu_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_selu_7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_selu_8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_selu_9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_sigmoid_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_sigmoid_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_sigmoid_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_sigmoid_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_sigmoid_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_sigmoid_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_sigmoid_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_sigmoid_7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_sigmoid_8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_sigmoid_9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_swish_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_swish_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_swish_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_swish_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_swish_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_swish_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_swish_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_swish_7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_swish_8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_swish_9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_tanh_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_tanh_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_tanh_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_tanh_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_tanh_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_tanh_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_tanh_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_tanh_7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_tanh_8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_tanh_9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/best_models/best_elu.h5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/best_models/best_exponential.h5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/best_models/best_relu.h5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/best_models/best_selu.h5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/best_models/best_sigmoid.h5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/best_models/best_swish.h5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/best_models/best_tanh.h5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/scores/acc_trend_elu" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/scores/acc_trend_exponential" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/scores/acc_trend_relu" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/scores/acc_trend_selu" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/scores/acc_trend_sigmoid" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/scores/acc_trend_swish" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/scores/acc_trend_tanh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/scores/scores_best_elu" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/scores/scores_best_elu_best_attack" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/scores/scores_best_exponential" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/scores/scores_best_exponential_best_attack" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/scores/scores_best_relu" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/scores/scores_best_relu_best_attack" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/scores/scores_best_selu" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/scores/scores_best_selu_best_attack" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/scores/scores_best_sigmoid" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/scores/scores_best_sigmoid_best_attack" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/scores/scores_best_swish" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/scores/scores_best_swish_best_attack" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/scores/scores_best_tanh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/scores/scores_best_tanh_best_attack" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_elu_0.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_elu_1.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_elu_2.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_elu_3.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_elu_4.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_elu_5.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_elu_6.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_elu_7.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_elu_8.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_elu_9.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_exponential_0.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_exponential_1.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_exponential_2.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_exponential_3.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_exponential_4.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_exponential_5.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_exponential_6.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_exponential_7.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_exponential_8.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_exponential_9.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_relu_0.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_relu_1.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_relu_2.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_relu_3.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_relu_4.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_relu_5.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_relu_6.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_relu_7.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_relu_8.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_relu_9.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_selu_0.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_selu_1.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_selu_2.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_selu_3.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_selu_4.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_selu_5.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_selu_6.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_selu_7.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_selu_8.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_selu_9.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_sigmoid_0.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_sigmoid_1.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_sigmoid_2.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_sigmoid_3.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_sigmoid_4.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_sigmoid_5.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_sigmoid_6.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_sigmoid_7.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_sigmoid_8.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_sigmoid_9.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_swish_0.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_swish_1.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_swish_2.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_swish_3.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_swish_4.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_swish_5.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_swish_6.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_swish_7.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_swish_8.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_swish_9.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_tanh_0.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_tanh_1.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_tanh_2.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_tanh_3.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_tanh_4.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_tanh_5.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_tanh_6.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_tanh_7.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_tanh_8.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/study_db/study_tanh_9.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/third_experiment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/third_experiment.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_4/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_4/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_4/.idea/nn_robustness_experiment_3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_4/.idea/nn_robustness_experiment_4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_4/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_4/constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_4/third_experiment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_4/fourth_experiment.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -337,6 +175,7 @@
       <workItem from="1666959849572" duration="14000" />
       <workItem from="1667472126475" duration="2541000" />
       <workItem from="1667856676293" duration="23000" />
+      <workItem from="1668011184814" duration="22000" />
     </task>
     <servers />
   </component>
