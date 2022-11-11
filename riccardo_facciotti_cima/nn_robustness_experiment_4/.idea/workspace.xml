@@ -2,15 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87960bd3-8541-4809-a020-92fa9f43f70e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/.idea/nn_robustness_experiment_3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/.idea/nn_robustness_experiment_4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/nn_robustness_experiment_3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/nn_robustness_experiment_4.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_elu_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_elu_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_elu_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_elu_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_elu_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_elu_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_elu_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_elu_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_elu_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_elu_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_relu_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_relu_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_relu_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_relu_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_relu_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_relu_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_relu_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_relu_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_relu_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_relu_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_selu_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_selu_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_selu_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_selu_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_selu_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_selu_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_selu_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_selu_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_selu_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_selu_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_sigmoid_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_sigmoid_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_sigmoid_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_sigmoid_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_sigmoid_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_sigmoid_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_sigmoid_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_sigmoid_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_sigmoid_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_sigmoid_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_swish_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_swish_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_swish_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_swish_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_swish_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_swish_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_swish_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_swish_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_swish_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_swish_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_tanh_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_tanh_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_tanh_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_tanh_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_tanh_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_tanh_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_tanh_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_tanh_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_tanh_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_fig/attack_surface_tanh_9.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/constants.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/third_experiment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourth_experiment.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourth_experiment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourth_experiment.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +242,10 @@
       <workItem from="1668008674790" duration="325000" />
       <workItem from="1668009063899" duration="3799000" />
       <workItem from="1668068732617" duration="3421000" />
-      <workItem from="1668091487395" duration="2292000" />
+      <workItem from="1668091487395" duration="2336000" />
+      <workItem from="1668103452999" duration="4177000" />
+      <workItem from="1668108318066" duration="1714000" />
+      <workItem from="1668156444105" duration="3087000" />
     </task>
     <servers />
   </component>
