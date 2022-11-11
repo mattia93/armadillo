@@ -42,8 +42,8 @@ ES_PATIENCE = 10
 MODELS_PATH = "./best_models"
 SCORES_PATH = "./scores"
 STUDY_DB_PATH = "./study_db"
-ATTACK_SURFACE_FIG_PATH = "./attack_surface_fig"
-
+ATTACK_SURFACE_F_FIG_PATH = "./attack_surface_f_fig"
+ATTACK_SURFACE_Z_FIG_PATH = "./attack_surface_z_fig"
 
 
 # attack constants
