@@ -2,84 +2,343 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87960bd3-8541-4809-a020-92fa9f43f70e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/.idea/nn_robustness_experiment_4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/.idea/nn_robustness_experiment_3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_elu_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_elu_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_elu_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_elu_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_elu_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_elu_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_elu_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_elu_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_elu_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_elu_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_elu_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_elu_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_elu_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_elu_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_elu_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_elu_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_elu_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_elu_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_elu_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_elu_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_exponential_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_exponential_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_exponential_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_exponential_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_exponential_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_exponential_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_exponential_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_exponential_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_exponential_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_exponential_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_exponential_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_exponential_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_exponential_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_exponential_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_exponential_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_exponential_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_exponential_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_exponential_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_exponential_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_exponential_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_relu_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_relu_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_relu_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_relu_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_relu_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_relu_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_relu_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_relu_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_relu_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_relu_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_relu_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_relu_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_relu_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_relu_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_relu_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_relu_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_relu_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_relu_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_relu_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_relu_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_selu_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_selu_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_selu_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_selu_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_selu_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_selu_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_selu_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_selu_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_selu_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_selu_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_selu_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_selu_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_selu_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_selu_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_selu_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_selu_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_selu_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_selu_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_selu_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_selu_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_sigmoid_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_sigmoid_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_sigmoid_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_sigmoid_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_sigmoid_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_sigmoid_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_sigmoid_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_sigmoid_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_sigmoid_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_sigmoid_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_sigmoid_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_sigmoid_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_sigmoid_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_sigmoid_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_sigmoid_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_sigmoid_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_sigmoid_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_sigmoid_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_sigmoid_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_sigmoid_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_swish_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_swish_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_swish_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_swish_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_swish_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_swish_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_swish_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_swish_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_swish_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_swish_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_swish_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_swish_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_swish_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_swish_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_swish_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_swish_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_swish_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_swish_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_swish_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_swish_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_tanh_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_tanh_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_tanh_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_tanh_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_tanh_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_tanh_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_tanh_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_tanh_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_tanh_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_tanh_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_tanh_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_tanh_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_tanh_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_tanh_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_tanh_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_tanh_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_tanh_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_tanh_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_tanh_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/attack_surface_z_fig/attack_surface_z_tanh_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_1/first_experiment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_1/first_experiment.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_elu_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_elu_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_elu_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_elu_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_elu_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_elu_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_elu_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_elu_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_elu_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_elu_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_elu_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_elu_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_elu_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_elu_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_elu_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_elu_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_elu_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_elu_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_elu_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_elu_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_exponential_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_exponential_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_exponential_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_exponential_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_exponential_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_exponential_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_exponential_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_exponential_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_exponential_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_exponential_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_exponential_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_exponential_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_exponential_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_exponential_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_exponential_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_exponential_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_exponential_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_exponential_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_exponential_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_exponential_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_relu_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_relu_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_relu_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_relu_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_relu_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_relu_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_relu_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_relu_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_relu_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_relu_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_relu_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_relu_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_relu_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_relu_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_relu_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_relu_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_relu_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_relu_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_relu_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_relu_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_selu_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_selu_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_selu_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_selu_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_selu_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_selu_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_selu_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_selu_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_selu_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_selu_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_selu_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_selu_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_selu_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_selu_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_selu_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_selu_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_selu_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_selu_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_selu_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_selu_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_sigmoid_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_sigmoid_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_sigmoid_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_sigmoid_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_sigmoid_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_sigmoid_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_sigmoid_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_sigmoid_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_sigmoid_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_sigmoid_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_sigmoid_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_sigmoid_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_sigmoid_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_sigmoid_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_sigmoid_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_sigmoid_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_sigmoid_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_sigmoid_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_sigmoid_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_sigmoid_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_swish_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_swish_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_swish_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_swish_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_swish_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_swish_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_swish_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_swish_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_swish_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_swish_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_swish_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_swish_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_swish_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_swish_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_swish_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_swish_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_swish_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_swish_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_swish_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_swish_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_tanh_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_tanh_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_tanh_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_tanh_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_tanh_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_tanh_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_tanh_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_tanh_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_tanh_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_tanh_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_tanh_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_tanh_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_tanh_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_tanh_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_tanh_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_tanh_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_tanh_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_tanh_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_tanh_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/attack_surface_z_fig/attack_surface_z_tanh_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_2/second_experiment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_2/second_experiment.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_elu_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_elu_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_elu_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_elu_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_elu_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_elu_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_elu_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_elu_7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_elu_8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_elu_9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_exponential_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_exponential_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_exponential_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_exponential_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_exponential_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_exponential_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_exponential_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_exponential_7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_exponential_8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_exponential_9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_relu_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_relu_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_relu_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_relu_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_relu_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_relu_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_relu_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_relu_7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_relu_8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_relu_9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_selu_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_selu_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_selu_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_selu_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_selu_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_selu_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_selu_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_selu_7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_selu_8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_selu_9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_sigmoid_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_sigmoid_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_sigmoid_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_sigmoid_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_sigmoid_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_sigmoid_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_sigmoid_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_sigmoid_7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_sigmoid_8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_sigmoid_9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_swish_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_swish_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_swish_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_swish_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_swish_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_swish_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_swish_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_swish_7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_swish_8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_swish_9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_tanh_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_tanh_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_tanh_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_tanh_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_tanh_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_tanh_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_tanh_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_tanh_7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_tanh_8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_fig/attack_surface_tanh_9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_elu_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_elu_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_elu_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_elu_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_elu_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_elu_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_elu_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_elu_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_elu_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_elu_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_elu_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_elu_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_elu_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_elu_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_elu_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_elu_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_elu_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_elu_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_elu_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_elu_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_exponential_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_exponential_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_exponential_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_exponential_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_exponential_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_exponential_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_exponential_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_exponential_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_exponential_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_exponential_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_exponential_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_exponential_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_exponential_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_exponential_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_exponential_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_exponential_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_exponential_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_exponential_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_exponential_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_exponential_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_relu_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_relu_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_relu_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_relu_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_relu_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_relu_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_relu_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_relu_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_relu_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_relu_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_relu_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_relu_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_relu_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_relu_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_relu_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_relu_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_relu_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_relu_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_relu_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_relu_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_selu_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_selu_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_selu_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_selu_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_selu_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_selu_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_selu_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_selu_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_selu_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_selu_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_selu_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_selu_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_selu_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_selu_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_selu_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_selu_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_selu_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_selu_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_selu_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_selu_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_sigmoid_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_sigmoid_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_sigmoid_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_sigmoid_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_sigmoid_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_sigmoid_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_sigmoid_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_sigmoid_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_sigmoid_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_sigmoid_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_sigmoid_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_sigmoid_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_sigmoid_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_sigmoid_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_sigmoid_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_sigmoid_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_sigmoid_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_sigmoid_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_sigmoid_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_sigmoid_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_swish_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_swish_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_swish_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_swish_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_swish_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_swish_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_swish_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_swish_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_swish_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_swish_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_swish_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_swish_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_swish_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_swish_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_swish_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_swish_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_swish_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_swish_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_swish_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_swish_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_tanh_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_tanh_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_tanh_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_tanh_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_tanh_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_tanh_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_tanh_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_tanh_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_tanh_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_tanh_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_tanh_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_tanh_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_tanh_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_tanh_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_tanh_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_tanh_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_tanh_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_tanh_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_tanh_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/attack_surface_z_fig/attack_surface_z_tanh_9.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../nn_robustness_experiment_3/third_experiment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../nn_robustness_experiment_3/third_experiment.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/nn_robustness_experiment_4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/nn_robustness_experiment_3.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_elu_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_elu_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_elu_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_elu_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_elu_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_elu_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_elu_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_elu_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_elu_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_elu_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_elu_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_elu_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_elu_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_elu_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_elu_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_elu_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_elu_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_elu_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_elu_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_elu_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_relu_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_relu_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_relu_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_relu_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_relu_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_relu_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_relu_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_relu_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_relu_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_relu_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_relu_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_relu_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_relu_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_relu_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_relu_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_relu_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_relu_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_relu_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_relu_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_relu_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_selu_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_selu_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_selu_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_selu_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_selu_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_selu_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_selu_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_selu_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_selu_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_selu_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_selu_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_selu_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_selu_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_selu_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_selu_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_selu_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_selu_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_selu_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_selu_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_selu_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_sigmoid_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_sigmoid_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_sigmoid_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_sigmoid_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_sigmoid_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_sigmoid_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_sigmoid_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_sigmoid_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_sigmoid_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_sigmoid_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_sigmoid_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_sigmoid_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_sigmoid_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_sigmoid_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_sigmoid_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_sigmoid_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_sigmoid_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_sigmoid_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_sigmoid_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_sigmoid_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_swish_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_swish_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_swish_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_swish_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_swish_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_swish_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_swish_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_swish_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_swish_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_swish_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_swish_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_swish_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_swish_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_swish_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_swish_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_swish_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_swish_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_swish_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_swish_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_swish_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_tanh_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_tanh_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_tanh_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_tanh_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_tanh_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_tanh_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_tanh_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_tanh_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_tanh_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_tanh_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_tanh_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_tanh_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_tanh_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_tanh_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_tanh_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_tanh_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_tanh_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_tanh_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_tanh_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_f_fig/attack_surface_f_tanh_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_elu_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_elu_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_elu_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_elu_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_elu_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_elu_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_elu_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_elu_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_elu_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_elu_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_elu_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_elu_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_elu_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_elu_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_elu_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_elu_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_elu_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_elu_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_elu_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_elu_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_relu_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_relu_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_relu_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_relu_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_relu_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_relu_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_relu_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_relu_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_relu_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_relu_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_relu_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_relu_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_relu_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_relu_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_relu_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_relu_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_relu_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_relu_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_relu_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_relu_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_selu_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_selu_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_selu_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_selu_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_selu_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_selu_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_selu_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_selu_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_selu_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_selu_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_selu_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_selu_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_selu_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_selu_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_selu_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_selu_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_selu_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_selu_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_selu_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_selu_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_sigmoid_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_sigmoid_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_sigmoid_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_sigmoid_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_sigmoid_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_sigmoid_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_sigmoid_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_sigmoid_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_sigmoid_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_sigmoid_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_sigmoid_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_sigmoid_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_sigmoid_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_sigmoid_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_sigmoid_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_sigmoid_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_sigmoid_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_sigmoid_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_sigmoid_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_sigmoid_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_swish_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_swish_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_swish_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_swish_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_swish_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_swish_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_swish_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_swish_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_swish_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_swish_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_swish_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_swish_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_swish_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_swish_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_swish_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_swish_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_swish_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_swish_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_swish_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_swish_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_tanh_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_tanh_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_tanh_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_tanh_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_tanh_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_tanh_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_tanh_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_tanh_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_tanh_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_tanh_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_tanh_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_tanh_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_tanh_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_tanh_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_tanh_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_tanh_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_tanh_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_tanh_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_tanh_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/attack_surface_z_fig/attack_surface_z_tanh_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fourth_experiment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/fourth_experiment.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +384,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../nn_robustness_experiment_3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -137,39 +396,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DjangoTestsConfigurationType">
-      <module name="nn_robustness_experiment_3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="TARGET" value="" />
-      <option name="SETTINGS_FILE" value="" />
-      <option name="CUSTOM_SETTINGS" value="false" />
-      <option name="USE_OPTIONS" value="false" />
-      <option name="OPTIONS" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
-      <module name="nn_robustness_experiment_3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="nn_robustness_experiment_3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -190,121 +416,6 @@
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="nn_robustness_experiment_3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Python.FlaskServer">
-      <module name="nn_robustness_experiment_3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="launchJavascriptDebuger" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <module name="nn_robustness_experiment_3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Docutils task">
-      <module name="nn_robustness_experiment_3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Sphinx task">
-      <module name="nn_robustness_experiment_3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="nn_robustness_experiment_3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <module name="nn_robustness_experiment_3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
   </component>
@@ -410,6 +521,10 @@
       <workItem from="1668108318066" duration="1714000" />
       <workItem from="1668156444105" duration="3087000" />
       <workItem from="1668159823782" duration="1083000" />
+      <workItem from="1668521457766" duration="829000" />
+      <workItem from="1668541107555" duration="5000" />
+      <workItem from="1669282374256" duration="3879000" />
+      <workItem from="1669289072642" duration="36000" />
     </task>
     <servers />
   </component>
